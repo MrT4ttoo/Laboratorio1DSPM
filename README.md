@@ -1,2 +1,2 @@
 # Labortorio1DSPM
-Labaoratorio de la materia: Desarrollo de software para plataformas moviles
+Laboratorio de la materia: Desarrollo de software para plataformas moviles
